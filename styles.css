@@ -1,0 +1,12 @@
+body {
+    height: 800px;
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/418/665/208/music-green-minimalism-logo-wallpaper-preview.jpg");
+    background-size: cover;
+    background-size: 100rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+p{
+    color: red;
+}
